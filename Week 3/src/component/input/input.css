@@ -1,0 +1,13 @@
+.input{
+	background: rgb(237, 237, 252);
+	border: none;
+	border-radius: 5px;
+	width: 250px;
+	height: 40px;
+	margin: 10px 0px;
+	padding-left: 10px;
+}
+
+.label{
+	font-size: 14px;
+}

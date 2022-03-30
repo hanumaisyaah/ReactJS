@@ -1,0 +1,31 @@
+.success{
+	width: 260px;
+	height: 35px;
+	padding: 0px 10px;
+	margin: 6px 0px;
+	border: none;
+	background: rgba(221, 164, 9, 0.849);
+	color: white;
+	border-radius: 5px;
+
+}
+
+.success:hover{
+	background: rgba(221, 164, 9, 0.849);
+	transition-duration: 500ms;
+}
+
+
+.outline{
+	width: 260px;
+	height: 35px;
+	padding: 0px 10px;
+	margin: 6px 0px;
+	border: rgba(221, 164, 9, 0.849);
+	color: rgba(221, 164, 9, 0.849);
+	border-radius: 5px;
+}
+
+.outline:hover{
+	background: rgb(236, 224, 255);
+}
